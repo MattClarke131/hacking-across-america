@@ -12,18 +12,18 @@ So, we've got a month to throw at driving around, meeting hackers, and doing awe
 
 
 ## Important Advice
-"Avoid major highways whenever possible.  Interstates are fast, but they also provide absolutely ZERO in the way of character."
-"Take Route 66"
-"Stop in lots of small towns"
-"See a cool billboard?  Stop for it."
+* "Avoid major highways whenever possible.  Interstates are fast, but they also provide absolutely ZERO in the way of character."
+* "Take Route 66"
+* "Stop in lots of small towns"
+* "See a cool billboard?  Stop for it."
 
 
 ## Rules of the Road/Car
-No open alcohol in the car.
-No drugs in the car.
-We should set a maximum speed limit relative to the posted limit at which point we will all split speeding tickets.  10 or 15 over or whatever.
-Everyone needs their own credit card.  You're not putting your thousand dollars in emergency charges on my card - I don't care how much you're worth.
-Whatever car we bring will get a full checkup/oil change before we take off.  Any problems the car experience on the road we will split the cost of.
+* No open alcohol in the car.
+* No drugs in the car.
+* We should set a maximum speed limit relative to the posted limit at which point we will all split speeding tickets.  10 or 15 over or whatever.
+* Everyone needs their own credit card.  You're not putting your thousand dollars in emergency charges on my card - I don't care how much you're worth.
+* Whatever car we bring will get a full checkup/oil change before we take off.  Any problems the car experience on the road we will split the cost of.
 
 ## Places to Hit Up
 * http://bit.ly/YmHYob
