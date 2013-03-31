@@ -27,6 +27,7 @@ So, we've got a month to throw at driving around, meeting hackers, and doing awe
 
 ## Places to Hit Up
 http://bit.ly/YmHYob
+
 This is organized by location.  Top level is state (or country in the case of Canadian territories), followed by municipality (generally city), followed by specific destinations, and all alphabetical.  In some cases the city isn't relevant, and the immediate level after state is a destination (like for national parks).  Please keep this organized, as it is going to be the most relevant way to determine where we end up going and how we're getting there.  Thanks!
 * Arizona
     * Four Corners
