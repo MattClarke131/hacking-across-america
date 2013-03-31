@@ -4,6 +4,8 @@ Our Google Map: http://bit.ly/YmHYob
 
 This is organized by location.  Top level is state (or country in the case of Canadian territories), followed by municipality (generally city), followed by specific destinations, and all alphabetical.  In some cases the city isn't relevant, and the immediate level after state is a destination (like for national parks).  Please keep this organized, as it is going to be the most relevant way to determine where we end up going and how we're getting there. Thanks!
 
+F,f -- (Andrew Farrell has friends he is sure (F) or suspects (f) we can crash with)
+
 * Arizona
     * Four Corners
         * Canyon de Chelly National Monument
@@ -15,20 +17,20 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * Meteor Crater
     * Phoenix
 * California
-    * Berkeley
+    * Berkeley [f]
         * UC Berkeley
     * Highway 101
     * Los Angeles
         * Hollywood
     * Los Osos
-    * Menlo Park
+    * Menlo Park [f]
         * TechShop
     * Mono Lake
         * Redwood National Park
     * Muir Woods
     * Racetrack Playa
         * Death Valley National Park
-    * San Francisco
+    * San Francisco [F]
         * Dropbox
         * Github
         * Hacker House (there's multiple)
@@ -36,9 +38,9 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * TechShop
         * Stripe
         * DNA Lounge
-    * San Jose
+    * San Jose [f]
         * TechShop
-    * Silicon Valley
+    * Silicon Valley [F]
         * Google
         * Noisebridge (hacker space)
 * Canada
@@ -51,26 +53,26 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * Mountains (for hiking!)
     * Hoover Dam
 * Georgia
-    * Atlanta
+    * Atlanta [f]
         * Stone Mountain
     * Savannah
 * Illinois
-    * Chicago
+    * Chicago [f]
         * SAIC
 * Kentucky
     * Louisville
         * LVL1 (http://hackerspaces.org/wiki/LVL1)
 * Louisiana
-    * New Orleans
+    * New Orleans [f]
 * Michigan
     * Allen Park
         * TechShop
 * Missouri
     * Ozarks
-    * St. Louis
+    * St. Louis [f]
         * City Museum
 * New York
-    * New York City
+    * New York City [F]
         * NYC Resistor
         * General Assembly
 * Nevada
@@ -86,7 +88,7 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * Lewis & Clark College
     * Valley of the Giants
 * Pennsylvania
-    * Pittsburgh
+    * Pittsburgh [F]
         * TechShop
         * CMU
 * South Dakota
@@ -97,10 +99,14 @@ This is organized by location.  Top level is state (or country in the case of Ca
     * Nashville
         * Parthenon
 * Texas
-    * Austin
+    * Austin [F]
         * UT Accelerator
     * Round Rock
         * TechShop
+    * San Antonio
+        * Alamo
+    * Houston
+        * Johnson Space Center
 * Utah
     * Bryce Canyon
     * Salt Flats
@@ -111,6 +117,6 @@ This is organized by location.  Top level is state (or country in the case of Ca
 * Virginia
     * Luray Caverns
 * Washington
-    * Seattle
+    * Seattle [F]
         * Facebook
         * University of Washington
