@@ -1,7 +1,5 @@
-hacking-across-america
+Hacking Across America
 ======================
-
-# Hacking Across America
 
 So, we've got a month to throw at driving around, meeting hackers, and doing awesome things.
 
