@@ -53,6 +53,7 @@ Zack, Ali, and Andrew
 ## Misc Stuff Around the Country
 * Hacker Spaces! http://hackerspaces.org/wiki/United_States_of_America
 * Roller Derby
+* It would be cool to see this documentary somewhere: http://www.nerdfightersdocumentary.com/see-the-film.html
 
 ## Lodgings
 * http://www.reddit.com/r/couchsurfing
