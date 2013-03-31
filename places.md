@@ -83,6 +83,8 @@ F,f -- (Andrew Farrell has friends he is sure (F) or suspects (f) we can crash w
     * Outer Banks
     * Raleigh
         * TechShop
+
+        * Nasher Museum
 * Oregon
     * Portland
         * Lewis & Clark College
@@ -98,15 +100,29 @@ F,f -- (Andrew Farrell has friends he is sure (F) or suspects (f) we can crash w
 * Tennesse
     * Nashville
         * Parthenon
-* Texas
+* Texas  (Do not go faster than 85)
     * Austin [F]
         * UT Accelerator
+        * Mongolian BBQ
+        * Pokey Joes
+        * Caverns of Sonora
+    * Lockhart
+        * Smittys Market (BBQ)
     * Round Rock
         * TechShop
     * San Antonio
         * Alamo
+        * Museum Reach
+        * Lackland Airman Heritage Museum (call ahead)
+    * Dallas/Ft. Worth
+        * Modern Museum
     * Houston
-        * Johnson Space Center
+        * Johnson Space Center & Rocket Garden
+        * Houston Ballet
+    * Ft. Davis
+      * McDonald Observatory
+      * Chinati
+
 * Utah
     * Bryce Canyon
     * Salt Flats
