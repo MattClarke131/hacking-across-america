@@ -1,5 +1,6 @@
 Hacking Across America
 ======================
+##### APRIL 28 - MAY 30
 
 So, we've got a month to throw at driving around, meeting hackers, and doing awesome things.
 
