@@ -67,7 +67,7 @@ Zack, Ali, and Andrew
 * 4g hotspot (Zack is going to look into getting a business deal on this)
 * CB Radio.  Trucker chatter!
 * A nice camera (high quality stills/video)
-* Tent
+* Tent, tarp, and air mattresses.
 * GPS (Zack has a car one - better than using a phone)
 * An emergency supply of non-perishable food, water, first aid, and repair supplies.
 * Walky Talkys (useful when we aren't covered by mobile networks)
@@ -76,9 +76,16 @@ Zack, Ali, and Andrew
     * http://www.nps.gov/findapark/passes.htm (page is currently down)
 * STORAGE!  Either a roof rack or a tow behind.  If we get a tow behind the car needs a hookup.
 * External battery to plug laptops/monitors into.
+* Books (on tape?)
+  * On the Road by Jack Kerouak
+  * Fear and Loathing in Las Vegas by Hunter S. Thompson
+  * Founders at Work by Jessica Livingston
+* Music (FM transmitter?)
 
 ## Stuff We Need (Individual)
 * Clothing for any and all weathers
+* Computers
+* Sleeping Bags
 
 ## Things to do on the trip:
 * Learn an instrument
