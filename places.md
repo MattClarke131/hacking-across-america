@@ -34,6 +34,8 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * Hacker House (there's multiple)
         * Mozilla
         * TechShop
+        * Stripe
+        * DNA Lounge
     * San Jose
         * TechShop
     * Silicon Valley
@@ -86,6 +88,7 @@ This is organized by location.  Top level is state (or country in the case of Ca
 * Pennsylvania
     * Pittsburgh
         * TechShop
+        * CMU
 * South Dakota
     * Badland National Park
     * Keystone

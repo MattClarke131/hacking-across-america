@@ -58,20 +58,24 @@ Zack, Ali, and Andrew
 * http://www.reddit.com/r/couchsurfing
 * https://www.couchsurfing.org/
 * We have a "probably" on a place to stay in Portland, OR.
+* We Have a place to stay at a music studio in Austin, TX.
 * We have a potential family connection to a place to stay in Silicon Valley.
+* Andrew can ask APO brothers.
+
 
 ## Stuff We Need (Group)
 * 4g hotspot (Zack is going to look into getting a business deal on this)
 * CB Radio.  Trucker chatter!
 * A nice camera (high quality stills/video)
-* Tent?
+* Tent
 * GPS (Zack has a car one - better than using a phone)
-* An emergency supply of non-perishable food
+* An emergency supply of non-perishable food, water, first aid, and repair supplies.
 * Walky Talkys (useful when we aren't covered by mobile networks)
 * Low-tech paper map/atlas
 * Invest in a National Park Pass ($80/car/year)
     * http://www.nps.gov/findapark/passes.htm (page is currently down)
 * STORAGE!  Either a roof rack or a tow behind.  If we get a tow behind the car needs a hookup.
+* External battery to plug laptops/monitors into.
 
 ## Stuff We Need (Individual)
 * Clothing for any and all weathers
@@ -80,6 +84,7 @@ Zack, Ali, and Andrew
 * Learn an instrument
     * Zack plans on learning the harmonica. Harmonica and Python and Web Dev.
     * Ali's going to bring his guitar
-* Journal it all
+    * Andrew will bring his Bodhran and Irish Drinking Songs
+* Journal/Photograph it all
 
 
