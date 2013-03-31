@@ -25,20 +25,25 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * TechShop
     * Mono Lake
         * Redwood National Park
+    * Muir Woods
+    * Racetrack Playa
+        * Death Valley National Park
     * San Francisco
+        * Dropbox
+        * Github
+        * Hacker House (there's multiple)
         * Mozilla
         * TechShop
     * San Jose
         * TechShop
     * Silicon Valley
-        * Dropbox
-        * Github
         * Google
         * Noisebridge (hacker space)
 * Canada
     * Montreal
     * Toronto
     * Niagara Falls
+    * University of Waterloo
 * Colorado
     * Boulder
         * Mountains (for hiking!)
@@ -64,6 +69,8 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * City Museum
 * New York
     * New York City
+        * NYC Resistor
+        * General Assembly
 * Nevada
     * Las Vegas
         * SynShop Hackerspace (https://synshop.org/)
@@ -88,6 +95,7 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * Parthenon
 * Texas
     * Austin
+        * UT Accelerator
     * Round Rock
         * TechShop
 * Utah
@@ -97,6 +105,8 @@ This is organized by location.  Top level is state (or country in the case of Ca
         * University of Utah
             * Original Internet Node (1/4)
     * Zion National Park
+* Virginia
+    * Luray Caverns
 * Washington
     * Seattle
         * Facebook

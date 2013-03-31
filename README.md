@@ -26,7 +26,6 @@ So, we've got a month to throw at driving around, meeting hackers, and doing awe
 * Everyone needs their own credit card.  You're not putting your thousand dollars in emergency charges on my card - I don't care how much you're worth.
 * Whatever car we bring will get a full checkup/oil change before we take off.  Any problems the car experience on the road we will split the cost of.
 
-
 ## Misc Stuff Around the Country
 * Hacker Spaces! http://hackerspaces.org/wiki/United_States_of_America
 * Roller Derby
