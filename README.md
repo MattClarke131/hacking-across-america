@@ -74,7 +74,7 @@ Zack, Ali, and Andrew
 * Walky Talkys (useful when we aren't covered by mobile networks)
 * Low-tech paper map/atlas
 * Invest in a National Park Pass ($80/car/year)
-    * http://www.nps.gov/findapark/passes.htm (page is currently down)
+    * http://www.nps.gov/findapark/passes.htm
 * STORAGE!  Either a roof rack or a tow behind.  If we get a tow behind the car needs a hookup.
 * External battery to plug laptops/monitors into.
 * Books (on tape?)
