@@ -67,6 +67,8 @@ F,f -- (Andrew Farrell has friends he is sure (F) or suspects (f) we can crash w
 * Michigan
     * Allen Park
         * TechShop
+    * Big Rapids
+        * Jim Crow Museum of Racist Memorabilia
 * Missouri
     * Ozarks
     * St. Louis [f]
