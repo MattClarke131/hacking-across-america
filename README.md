@@ -87,7 +87,6 @@ Zack, Ali, and Andrew
   * Founders at Work by Jessica Livingston
 * Music (FM transmitter?) (we have an aux -> cassette device)
 * Cooler (for food)
-* CB Radio?
 
 ## Stuff We Need (Individual)
 * Clothing for any and all weathers
