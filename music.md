@@ -43,7 +43,7 @@ put an x if you distinctly don not want to.
 
 ## Rock
 * [F__] Downeaster Alexa        -- http://www.youtube.com/watch?v=LVlDSzbrH5M
-* [f__ We Didnt Start the Fire -- http://www.youtube.com/watch?v=eFTLKWw542g
+* [f__] We Didnt Start the Fire -- http://www.youtube.com/watch?v=eFTLKWw542g
 
 ## Rap (beatboxing?)
 * [___] Thrift Shop             -- http://www.youtube.com/watch?v=QK8mJJJvaes
