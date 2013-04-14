@@ -11,16 +11,18 @@ Andrew Farrell - Bodhran (Irish Drum)
 
 Zack Youngren - Harmonica
 
+Matt Clarke - Guitar
+
 
 List of songs we might learn
 ----------------------------
 By last name:
 
-Put an f, u, or y before each if you actually want to learn the song.
+Put an c, f, u, or y before each if you actually want to learn the song.
 
-Put an F, U, or Y before each if you already know how to sing or play this song.
+Put an C, F, U, or Y before each if you already know how to sing or play this song.
 
-put an x if you distinctly don not want to.
+put an x if you distinctly do not want to.
 
 ## Country
 * [F__] The Gambler             -- http://www.youtube.com/watch?v=Jj4nJ1YEAp4
