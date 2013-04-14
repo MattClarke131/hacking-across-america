@@ -5,7 +5,7 @@ Hacking Across America
 So, we've got a month to throw at driving around, meeting hackers, and doing awesome things.
 
 ## Who We Are
-We are three (so far) college students from Boston who all happen to have a month of free time this summer
+We are four college students from Boston who all happen to have a month of free time this summer
 and we want to do something cool with it. As such, w have decided to take to the road and do things we wouldnt
 be able to do otherwise.
 
@@ -25,7 +25,7 @@ that would also be super cool. Please feel free to submit issues or pull request
 
 Thanks for reading!
 
-Zack, Ali, and Andrew
+Zack, Ali, Matt, and Andrew
 
 ## General Themey Things
 
@@ -48,7 +48,7 @@ Zack, Ali, and Andrew
 * We should set a maximum speed limit relative to the posted limit at which point we will all split speeding tickets.  10 or 15 over or whatever.
 * Everyone needs their own credit card.  You're not putting your thousand dollars in emergency charges on my card - I don't care how much you're worth.
 * Whatever car we bring will get a full checkup/oil change before we take off.  Any problems the car experience on the road we will split the cost of.
-
+* Seatbelts on.
 
 ## Misc Stuff Around the Country
 * Hacker Spaces! http://hackerspaces.org/wiki/United_States_of_America
@@ -87,6 +87,7 @@ Zack, Ali, and Andrew
   * Founders at Work by Jessica Livingston
 * Music (FM transmitter?) (we have an aux -> cassette device)
 * Cooler (for food)
+* Air mattresses for couch surfing
 
 ## Stuff We Need (Individual)
 * Clothing for any and all weathers
@@ -98,6 +99,7 @@ Zack, Ali, and Andrew
     * Zack plans on learning the harmonica. Harmonica and Python and Web Dev.
     * Ali's going to bring his guitar
     * Andrew will bring his Bodhran and Irish Drinking Songs
+    * Matt's bringing a guitar and knows how to play it.
 * Journal/Photograph it all
 
 
